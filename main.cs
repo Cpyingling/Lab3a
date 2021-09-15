@@ -1,9 +1,5 @@
 /*Author Charles Yingling       Date 9/14/2021
 1. Write a program in C# to convert Celsius to Farehneit. 
-
-If temperature is below freezing, display "This temperature is below freezing of 32 degree Farenheit"
-If temperature is above boiling, display "This temperature is above boiling point of 212 degree Farenheit"
-
 */
 using System;
 
